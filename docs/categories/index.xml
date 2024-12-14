@@ -6,6 +6,21 @@
     <description>Recent content in Categories on My Blog</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mattgu314.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accelerate Algorithm</title>
+      <link>https://mattgu314.github.io/categories/accelerate-algorithm/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://mattgu314.github.io/categories/accelerate-algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NPU</title>
+      <link>https://mattgu314.github.io/categories/npu/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://mattgu314.github.io/categories/npu/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
