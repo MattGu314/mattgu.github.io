@@ -1,0 +1,17 @@
+baseURL = "https://mattgu314.github.io/"
+languageCode = "en-us"
+title = "My Blog"
+theme = "PaperMod"
+
+[params]
+  author = "Your Name"
+  description = "A blog built with Hugo and PaperMod"
+  defaultTheme = "auto" # dark, light, or auto
+  showReadingTime = true
+  showToc = true
+  showTags = true
+  showCategories = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
