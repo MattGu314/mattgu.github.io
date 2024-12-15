@@ -2,140 +2,140 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/accelerate-algorithm/</loc>
+    <loc>https://mattgu314.github.io/categories/accelerate-algorithm/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cmn"
-                href="http://localhost:1313/zh/categories/accelerate-algorithm/"
+                href="https://mattgu314.github.io/zh/categories/accelerate-algorithm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/accelerate-algorithm/"
+                href="https://mattgu314.github.io/categories/accelerate-algorithm/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mattgu314.github.io/categories/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cmn"
-                href="http://localhost:1313/zh/categories/"
+                href="https://mattgu314.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/"
+                href="https://mattgu314.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/2024-12-13-flashattention-family/flash-attention/</loc>
+    <loc>https://mattgu314.github.io/posts/2024-12-13-flashattention-family/flash-attention/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cmn"
-                href="http://localhost:1313/zh/posts/2024-12-13-flashattention-family/flash-attention/"
+                href="https://mattgu314.github.io/zh/posts/2024-12-13-flashattention-family/flash-attention/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/posts/2024-12-13-flashattention-family/flash-attention/"
+                href="https://mattgu314.github.io/posts/2024-12-13-flashattention-family/flash-attention/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/gpu/</loc>
+    <loc>https://mattgu314.github.io/tags/gpu/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cmn"
-                href="http://localhost:1313/zh/tags/gpu/"
+                href="https://mattgu314.github.io/zh/tags/gpu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/gpu/"
+                href="https://mattgu314.github.io/tags/gpu/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/2024-12-13-matrix-unit/matrix-unit-size/</loc>
+    <loc>https://mattgu314.github.io/posts/2024-12-13-matrix-unit/matrix-unit-size/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/npu/</loc>
+    <loc>https://mattgu314.github.io/tags/npu/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/npu/</loc>
+    <loc>https://mattgu314.github.io/categories/npu/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cmn"
-                href="http://localhost:1313/zh/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mattgu314.github.io/posts/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cmn"
-                href="http://localhost:1313/zh/"
+                href="https://mattgu314.github.io/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="https://mattgu314.github.io/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mattgu314.github.io/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cmn"
-                href="http://localhost:1313/zh/tags/"
+                href="https://mattgu314.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/"
+                href="https://mattgu314.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://mattgu314.github.io/tags/</loc>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cmn"
-                href="http://localhost:1313/zh/about/"
+                href="https://mattgu314.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/about/"
+                href="https://mattgu314.github.io/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://mattgu314.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cmn"
-                href="http://localhost:1313/archive/"
+                href="https://mattgu314.github.io/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/archive/"
+                href="https://mattgu314.github.io/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://mattgu314.github.io/archive/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cmn"
-                href="http://localhost:1313/zh/search/"
+                href="https://mattgu314.github.io/zh/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/search/"
+                href="https://mattgu314.github.io/archive/"
+                />
+  </url><url>
+    <loc>https://mattgu314.github.io/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cmn"
+                href="https://mattgu314.github.io/zh/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://mattgu314.github.io/search/"
                 />
   </url>
 </urlset>
