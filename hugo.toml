@@ -1,9 +1,29 @@
 baseURL = "https://mattgu314.github.io/"
-languageCode = "en-us"
-title = "Matt's Blog"
 theme = "PaperMod"
 publishDir = "docs"
-defaultContentLanguage = "en"
+
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    contentDir = 'content'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = "Matt's Blog"
+    weight = 1
+    [languages.en.params]
+      subtitle = 'Reference, Tutorials, and Explanations'
+  [languages.zh]
+    contentDir = 'content'
+    disabled = false
+    languageCode = 'zh-cmn'
+    languageDirection = 'ltr'
+    languageName = 'Chinese'
+    title = 'Matt 的小站'
+    weight = 2
+    [languages.zh.params]
+      subtitle = '欢迎作客！'
 
 [params]
   author = "Matt Gu"

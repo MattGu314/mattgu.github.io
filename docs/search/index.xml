@@ -4,8 +4,8 @@
     <title>Search on Matt&#39;s Blog</title>
     <link>http://localhost:1313/search/</link>
     <description>Recent content in Search on Matt&#39;s Blog</description>
-    <generator>Hugo -- 0.139.4</generator>
-    <language>en-us</language>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-US</language>
     <atom:link href="http://localhost:1313/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
